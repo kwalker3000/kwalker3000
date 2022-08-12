@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Life-long learner.
+
+Loves building and breaking things. Well... preferably, more building than breaking.
+
+Seeking opportunities in software/web development.
+
+📫 How to reach me: k.walker@sae-sf.net
+
 <!--
 **kwalker3000/kwalker3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
