@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Life-long learner.
+A rising code slayer.
 
-Loves building and breaking things. Well... preferably, more building than breaking.
+Love building and breaking things. Well... preferably, more building than breaking.
 
-Seeking opportunities in software/web development.
+Want to collab?
 
 📫 How to reach me: k.walker@sae-sf.net
 
