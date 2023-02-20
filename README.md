@@ -4,7 +4,9 @@ A rising code slayer.
 
 Love building and breaking things. Well... preferably, more building than breaking.
 
-Want to collab?
+🌱 Currently learning Haskell, C++, and Android development.
+
+Want to connect!?
 
 📫 How to reach me: k.walker@sae-sf.net
 
