@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-A rising code slayer.
-
 Love building and breaking things. Well... preferably, more building than breaking.
 
 🌱 Currently learning Haskell, C++, and Android development.
 
-Want to connect!?
+Let's connect!
 
 📫 How to reach me: k.walker@sae-sf.net
 
