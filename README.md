@@ -2,7 +2,7 @@
 
 Love building and breaking things. Well... preferably, more building than breaking.
 
-🌱 Currently learning Haskell, C++, and Android development.
+🌱 Currently learning C/C++, computer architecture, and compiler development.
 
 Let's connect!
 
